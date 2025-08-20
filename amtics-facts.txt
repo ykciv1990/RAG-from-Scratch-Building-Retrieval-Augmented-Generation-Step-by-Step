@@ -1,0 +1,328 @@
+AMTICS: Asha M. Tarsadia Institute of Computer Science and Technology
+- Constituent institute of Uka Tarsadia University (UTU), located on the Maliba Campus, South Gujarat. Recognized as among the best in Computer Science & Engineering in the region. :contentReference[oaicite:0]{index=0}
+- Offers seven undergraduate B.Tech. programs and a postgraduate Integrated 5-year M.Tech. in Computer Science & Engineering (CSE). Focus areas include AI & ML, Cloud Computing, Cyber Security, Software Engineering, Information Technology, Computer Engineering, and Computer Science & Bioscience. :contentReference[oaicite:1]{index=1}
+- Infrastructure and offerings:
+  - 10+ industry MoUs, 5+ Global Academies (e.g., AWS, Red Hat, Oracle Academies). :contentReference[oaicite:2]{index=2}
+  - 13+ specialized laboratories including:
+    - iOS Lab, 3D Printing Lab, Autonomous Robotic Systems Lab, BEE Lab, DLDC Lab, Drone Lab, EV Lab, Gulabba Lab (Computational Biology & Bioinformatics), Hardware Lab. :contentReference[oaicite:3]{index=3}
+  - Smart classrooms, 200+ computing systems, outcome-based education, Choice Based Credit System, fully Wi-Fi campus. :contentReference[oaicite:4]{index=4}
+  - Student startup cell, international exchange programs (US, UK, Canada, Germany), six months full-time industrial training in IT and government research institutions. :contentReference[oaicite:5]{index=5}
+- Educational approach:
+  - Vision: “Become a cradle for innovation through nurturing excellence and imparting knowledge to handle and respond to societal challenges.” :contentReference[oaicite:6]{index=6}
+  - Mission:
+    1. Develop excellence in Computer Science & Technology via humanitarian values and critical thinking.
+    2. Build an innovation ecosystem through skill-based technical education.
+    3. Cultivate socially responsible, highly skilled future leaders. :contentReference[oaicite:7]{index=7}
+  - Why choose AMTICS? Modern, industry-aligned curriculum, expert faculty, placement assistance, project-based learning, holistic development, skill-focused education, research & innovation, workshops, internships—empowering future innovators. :contentReference[oaicite:8]{index=8}
+- Academic operations:
+  - Announcements such as semester fee deadlines for 2025-26. :contentReference[oaicite:9]{index=9}
+  - Exam Corner: hub for schedules, results, resources (latest update ~3 months ago). :contentReference[oaicite:10]{index=10}
+- Faculty (some key members as of now):
+  - Dr. Vishvajit Bakrola (I/C Director) – expertise: ML, AI, Robotics, NLP, IoT, Quantum Computing, Neuromorphic Computing, BCI, HPC. :contentReference[oaicite:11]{index=11}
+  - Mr. Jay Patel (PhD Pursuing) – Industrial Automation, Renewable Energy, EVs, Smart Switchgear.
+  - Ms. Dipashree Patel (PhD Pursuing) – Real Analysis, Discrete Mathematics, Abstract Algebra.
+  - Ms. Vibhuti Patel – Power Systems, Industrial Automation.
+  - Ms. Vidhi Sutaria (PhD Pursuing) – Cloud Computing, Info Network Security.
+  - Ms. Urvishabahen Patel – Machine Learning, Computer Vision.
+  - Mr. Aakash Parmar (PhD Pursuing) – AI, Soft Computing, Digital Forensics.
+  - Ms. Vidhi Patel – Data Structures, Web Development.
+  - Ms. Halak Patel – DBMS, Algorithms, Design.
+  - Ms. Roshni Patel – Data Mining, OS.
+  - Ms. Mitaliben Patel – Computer Networks, Software Engineering.
+  - Mr. Santosh Saha (PhD Pursuing) – Cyber Security, IoT, ML.
+  - Mr. Vishvendu Bhatt – ML, Cloud Computing, Info Security.
+  - Mr. Dipesh Shahane – Operating Systems.
+  - Ms. Nivedita Pujari – Mobile App Development.
+  - Ms. Ekta Atodariya – Web Designing (Lab Assistant).
+  - Ms. Manisha Patel – Office Assistant. :contentReference[oaicite:12]{index=12}
+
+Uka Tarsadia University (UTU)
+- Established in 2011 by Bardoli Pradesh Kelavani Mandal with help from donor B.U. Patel, USA. Catalyst for modern professional education in South Gujarat. :contentReference[oaicite:13]{index=13}
+- Recognitions: State Private University under Gujarat Private University Amendment Act 2011; UGC Section 22 & 2(f) approval; NAAC accreditation; permanent member of AIU; over 45 national/international awards. :contentReference[oaicite:14]{index=14}
+- Vision–Mission–Values: Emphasize holistic education—balance between specialization & general knowledge, character & intellect, individual & collective, body-mind-spirit. Promotes free thinking, ethics, compassion, spiritual growth, supported by Shrimad Rajchandra Center of Value Education and forthcoming Humanities & Social Sciences Center. :contentReference[oaicite:15]{index=15}
+- Academic diversity: Offers wide-ranging programs across UG, PG, Integrated, Diploma, Ph.D.; fields include Engineering, CSE, Data Science, Pharmacy, Design, Nursing, Business, Science, Humanities, Agriculture. :contentReference[oaicite:16]{index=16}
+- Infrastructure & amenities:
+  - Campus: fully Wi-Fi, eco-friendly, ergonomically designed.
+  - Facilities: libraries (7 including central), hostels (boys & girls with Wi-Fi), canteens (10+ hygienic outlets), auditorium, sports, transportation (buses to Bardoli, Surat, private cabs, GSRTC), 24×7 CCTV, special security force. :contentReference[oaicite:17]{index=17}
+- Student support and culture:
+  - Scholarships, education loans, training & placement cell.
+  - Admissions under various quotas—NRI, Management, CIWGC/PIO/FN.
+  - Implementation of NEP 2020 across programs. :contentReference[oaicite:18]{index=18}
+  - Rich campus life—clubs, festivals, NSS social activities. :contentReference[oaicite:19]{index=19}
+- Location & access:
+  - Maliba Campus on Bardoli-Mahuva Road, ~7 km from Bardoli, ~35 km from Surat. Well-connected via buses, taxis, rickshaws. Contact: registrar work hours 08:30–16:30. :contentReference[oaicite:20]{index=20}
+- Admissions and contact:
+  - For UTU and AMTICS: Admission office phone numbers and multiple contact points, including Surat center. :contentReference[oaicite:21]{index=21}
+- University website overview:
+  - Multi-institutional setup with many constituent bodies (AMTICS, biotech, pharmacy, management, architecture, etc.). Virtual tours, student corner services (Placement, Scholarships, Academic Bank of Credits), Research Cells & Publications. :contentReference[oaicite:22]{index=22}
+AMTICS: Asha M. Tarsadia Institute of Computer Science and Technology (AMTICS) is a constituent institute of NAAC-accredited Uka Tarsadia University. It offers B.Tech. and M.Tech. programs in Computer Science and Engineering. Features include 10+ industry MoUs, 5+ global academies, 13+ laboratories, over 1200 students, and 135+ alumni. :contentReference[oaicite:0]{index=0}
+
+Vision of AMTICS: “Become a cradle for innovation through nurturing excellence and imparting knowledge to handle and respond to societal challenges.” :contentReference[oaicite:1]{index=1}
+
+Mission bullet points: 
+1. Center of excellence in Computer Science & Technology through humanitarian values, critical thinking, creativity  
+2. Establish an innovation ecosystem via skill-based technical education  
+3. Develop a socially responsible, highly skilled task force and future leaders :contentReference[oaicite:2]{index=2}
+
+Why choose AMTICS? It empowers future innovators via a modern curriculum (AI, Cybersecurity, Cloud Computing, Software Development, Bioscience), expert faculty, placement assistance, innovative teaching practices, holistic development, skill-focused education, research & innovation, student workshops, industry collaborations, guest lectures, live projects, and internships. :contentReference[oaicite:3]{index=3}
+
+Laboratories at AMTICS include iOS Lab, 3D Printing Lab, Autonomous Robotic Systems Lab, BEE Lab (Bioelectronics & Embedded Systems), DLDC Lab (Digital Logic & High-Performance Computing), Drone Lab, EV Lab, Gulabba Lab (Computational Biology & Bioinformatics), Hardware Lab. :contentReference[oaicite:4]{index=4}
+
+Academic offerings (from FAQs): multiple B.Tech. streams—CSE; CSE (AI & ML); CSE (Cloud Computing); CSE (Cyber Security); Computer Engineering; Software Engineering; Information Technology; B.Tech. in Computer Science & Bioscience; plus a 5-year Integrated M.Tech. in CSE. :contentReference[oaicite:5]{index=5}
+
+Key achievements of AMTICS until around 2025:
+- 100% placement of 106 students  
+- 28 students pursuing higher studies  
+- 2 registered startups  
+- 4 patents granted  
+- 10+ research articles  
+- 7+ industry-academic MoUs  
+- Over 95% internship participation among students :contentReference[oaicite:6]{index=6}
+
+Director’s message by Dr. Vishvajit Bakrola:
+- AMTICS founded in 2021 with student-centered, hands-on learning  
+- Programs include AI, Bioscience, ML, Quantum Computing, Cybersecurity, etc.  
+- Innovation via DIY projects, hackathons, Entrepreneurship Club  
+- IP protection and startup support  
+- 89% placement rate before graduation  
+- Vibrant student clubs for technical, cultural, wellness, and social-service activities  
+- Aims to nurture innovators, entrepreneurs, and responsible professionals :contentReference[oaicite:7]{index=7}
+
+---
+
+Vishvajit Bakrola – Brief profile:
+Degrees: D.E. (CE), B.E. (CSE), M.E. (CE); currently pursuing Ph.D. and PGDIPRL. :contentReference[oaicite:8]{index=8}  
+Employment:
+- Assistant Professor, Department of Computer Engineering at C.G. Patel Institute of Technology (Aug 2012 – Oct 2021)  
+- Since Oct 2021: Assistant Professor, Department of Computer Science & Engineering at AMTICS  
+- Also Head of Diploma Studies at Diwaliba Polytechnic, UTU Mahuva Campus :contentReference[oaicite:9]{index=9}
+
+Professional Memberships: INNS, ACL, ACM, CSI, IE, MIR Labs, etc. :contentReference[oaicite:10]{index=10}  
+Research Focus: AI, ML, Deep Learning, NLP; coordinator for AI, NLP, and IoT labs; guided 7 PG theses; holds one design and one utility patent (as of Nov 2021) :contentReference[oaicite:11]{index=11}  
+Administrative Roles: Member of Board of Studies; Convenor of IPR Cell; Member of Institutional Innovation Council; Member of SSIP Cell. :contentReference[oaicite:12]{index=12}
+
+Additional profile details:
+- Google Scholar: h-index 6, 173 citations; publications include works on Indic languages translation, NLP for COVID-19 research mining, Sanskrit grammar representation, BCI, machine translation, etc. Patent for Traffic Collision Notification System (IN, 2018) :contentReference[oaicite:13]{index=13}  
+- Awards & Recognition: Young Researcher Award 2022 by STEM Research Society (17 Dec 2022); reviewer for Scopus-indexed Journal of Autonomous Intelligence (Oct 2023) :contentReference[oaicite:14]{index=14}  
+- Contact info: Dept. of CSE, AMTICS, UTU Maliba Campus, Bardoli-Mahuva Rd., Surat – 394350, Gujarat, India; email: vishvajit.bakrola@utu.ac.in; profiles: Google Scholar, ResearchGate, LinkedIn, Twitter, Facebook, Instagram :contentReference[oaicite:15]{index=15}  
+AMTICS: Asha M. Tarsadia Institute of Computer Science and Technology
+- Established: 2021 as a constituent of Uka Tarsadia University, Maliba Campus, Bardoli-Mahuva Road, Surat, Gujarat.
+- Programs Offered:
+  • B.Tech. Computer Science and Engineering (CSE)
+  • B.Tech. CSE (Artificial Intelligence & Machine Learning)
+  • B.Tech. CSE (Cloud Computing)
+  • B.Tech. CSE (Cyber Security)
+  • B.Tech. Computer Engineering
+  • B.Tech. Software Engineering
+  • B.Tech. Information Technology
+  • B.Tech. Computer Science & Bioscience (unique program integrating biology with computing)
+  • Integrated 5-year M.Tech. in Computer Science and Engineering
+- Teaching Pedagogy:
+  • Choice Based Credit System (CBCS), outcome-based education.
+  • Emphasis on hands-on training, live projects, hackathons, case studies, workshops.
+  • Industry internships in final semester with IT companies and research organizations.
+- Labs & Infrastructure:
+  • Specialized labs: iOS Lab, 3D Printing, Drone Technology, EV Lab, Robotics, Computational Biology, AI & ML Lab, IoT & Embedded Systems Lab, Cloud Computing Lab.
+  • Campus: 200+ computers, smart classrooms, 24×7 Wi-Fi, open discussion spaces, seminar halls.
+  • Dedicated innovation and startup incubation cell.
+- Industry & Global Collaboration:
+  • MoUs with companies in AI, IoT, Cloud, Data Science, Software Development.
+  • Partnerships with AWS Academy, Red Hat, Oracle Academy, Google Cloud, Infosys Springboard.
+  • Student exchange programs with US, UK, Canada, and Germany universities.
+- Research & Innovation:
+  • Active student clubs in AI, Data Science, Cyber Security, and Coding.
+  • Patents filed and granted by faculty and students.
+  • Faculty published research in NLP, Deep Learning, Cloud Computing, Cyber Security, BCI, Neuromorphic Computing.
+- Placement & Career:
+  • >89% placement rate for graduates.
+  • Recruiters: Infosys, TCS, Wipro, Capgemini, Cognizant, L&T, and startups.
+  • Career counseling, mock interviews, aptitude training, and entrepreneurship development.
+- Extracurricular Activities:
+  • Student clubs: Coding Club, Robotics Club, Entrepreneurship Club, Cultural Club.
+  • Technical fests, hackathons, sports tournaments, social service programs (via NSS, Rotary, and local NGOs).
+  • Wellness and motivation programs by Director and faculty mentors.
+- Key Achievements:
+  • 100% placement of certain graduating batches.
+  • 28+ students in higher studies abroad.
+  • 4+ patents granted, 2 registered startups.
+  • Multiple research articles published in Scopus/SCI journals.
+  • Student teams winning hackathons at state and national level.
+
+---
+
+Uka Tarsadia University (UTU)
+- Established: 2011 by Bardoli Pradesh Kelavani Mandal (BPKM), under Gujarat Private University Amendment Act.
+- Accreditation & Recognition:
+  • Recognized by UGC under Section 2(f) and 22.
+  • NAAC Accredited.
+  • Member of Association of Indian Universities (AIU).
+  • Awarded over 45 recognitions at national and international level.
+- Campus:
+  • Located in Maliba Campus, Bardoli-Mahuva Road, 7 km from Bardoli, 35 km from Surat.
+  • Green, eco-friendly campus with solar energy, rainwater harvesting.
+  • Infrastructure: auditoriums, central and departmental libraries, 10+ canteens, gymnasium, sports ground, hostel facilities for boys and girls.
+- Academic Diversity:
+  • 20+ constituent institutes across disciplines: Engineering, Pharmacy, Nursing, Management, Biotechnology, Design, Architecture, Commerce, Science, Agriculture.
+  • Programs offered: UG, PG, Diploma, PhD, Integrated courses.
+- Student Facilities:
+  • 24×7 Wi-Fi campus, health center, transportation (university buses & GSRTC buses).
+  • Hostel accommodation with security, CCTV surveillance.
+  • Central library with digital subscriptions, research repositories.
+- Values & Ethos:
+  • Balances academics with ethics, character building, and value-based education.
+  • Spiritual & cultural values through Shrimad Rajchandra Center of Value Education.
+  • Promotes research, innovation, entrepreneurship, and social responsibility.
+- Placements & Careers:
+  • Central Training & Placement Cell.
+  • Regular campus recruitment by top MNCs and startups.
+  • Skill development workshops, industry internships, SSIP & IIC initiatives.
+- Research & Development:
+  • Multiple research centers across faculties.
+  • Focus on AI, Biotechnology, Healthcare, Pharmacy, Renewable Energy, and Social Sciences.
+  • Support for start-ups under Gujarat Government’s SSIP policy.
+- Student Life:
+  • Rich extracurricular activities: cultural fests, tech fests, NSS, NCC.
+  • Sports facilities including cricket ground, athletics, indoor games.
+  • Clubs for debate, drama, dance, robotics, innovation, entrepreneurship.
+Research suggests that AMTICS is an academic institute focused on computer science education and innovation, established as part of a university in India. It seems likely that Vishvajit Bakrola serves in a leadership role there, with expertise in AI and related fields. Evidence leans toward AMTICS being a relatively new institute, founded around 2021, emphasizing skill-based learning and research.
+
+AMTICS Overview: AMTICS stands for Asha M. Tarsadia Institute of Computer Science and Technology, a constituent institute of Uka Tarsadia University (UTU) in Bardoli, Gujarat, India.
+Establishment and Purpose: Established in 2021, AMTICS aims to foster innovation, critical thinking, and humanitarian values in computer science and technology.
+Vishvajit Bakrola's Role: Dr. Vishvajit Bakrola is the In-Charge (I/C) Director of AMTICS and an Assistant Professor at UTU's Department of Computer Science and Engineering.
+Bakrola's Expertise: He specializes in AI, machine learning, deep learning, natural language processing, robotics, and IoT, with over 13 years of experience.
+University Context: UTU, located in Bardoli near Surat, offers programs like B.Tech in Computer Science and Engineering through institutes like AMTICS.
+
+AMTICS Programs and Facilities
+AMTICS offers advanced courses in computer science, with a focus on industry-ready curricula and innovation ecosystems. It has an NPTEL local chapter for online learning and research labs in AI, NLP, and IoT coordinated by faculty like Bakrola. Social media presence on Instagram and Facebook highlights events, student activities, and campus life.
+Vishvajit Bakrola's Background
+Bakrola holds degrees in computer engineering and is pursuing a Ph.D. and PGDIPRL. He has guided 7 postgraduate theses, collaborated with industries, and published on topics like NLP-based literature mining. His online profiles emphasize teaching, research, and development in programming languages like Python and C#.
+For more details, refer to official sites like https://utu.ac.in/AMTICS/ and https://sites.google.com/a/utu.ac.in/vishvajit/brief-profile.
+
+AMTICS stands for Asha M. Tarsadia Institute of Computer Science and Technology.
+AMTICS is a constituent institute of Uka Tarsadia University (UTU).
+UTU is located in Bardoli, Surat district, Gujarat, India.
+AMTICS was established in 2021 to promote advanced courses in computer science and technology.
+The vision of AMTICS is to become a cradle for innovation through nurturing excellence and imparting knowledge to handle and respond to societal challenges.
+The mission of AMTICS includes becoming a centre of excellence in the field of Computer Science and Technology by fostering humanitarian values, critical thinking, and creativity for problem solving in faculties and students.
+AMTICS aims to establish an innovation ecosystem through skill-based technical education.
+AMTICS seeks to develop a socially responsible, highly skilled task force and future leaders to meet national challenges.
+AMTICS has an official Instagram handle @amtics.utu, described as the official handle of Asha M. Tarsadia Institute of Computer Science and Technology, a constituent institute of Uka Tarsadia University.
+AMTICS has a Facebook page where it is noted as a constituent institute of Uka Tarsadia University, established in 2021.
+On LinkedIn, AMTICS is referred to as Asha M. Tarsadia Advanced Institute of Computer Science and Technology (AM-ICST), a constituent institute of Uka Tarsadia University.
+AMTICS features a section called AMTICS@Glimpse with 16 images showcasing campus or activities.
+AMTICS emphasizes a student-first culture with expert faculty and an industry-ready curriculum, where students thrive, innovate, and lead the future.
+Events at AMTICS include participation in Utkarsh, with highlights from Day 2 featuring well-played activities.
+AMTICS promotes joining Uka Tarsadia University with the slogan "Be Wise. Choose Right."
+Student achievements at AMTICS include performances by individuals like Gauri Khatod and Mayur Gurav in events shared on social media.
+AMTICS has an NPTEL local chapter, with SPOC Name Vibhuti Meetkumar Patel, and URL http://utu.ac.in/AMTICS/index.html.
+UTU offers B.Tech. in Computer Science and Engineering through AMTICS.
+Asha M. Tarsadia Institute of Computer Science and Technology in Surat offers over 8 courses as a private institute in Gujarat.
+Dr. Vishvajit Bakrola is the I/C Director of AMTICS.
+Vishvajit Bakrola's email is vishvajit.bakrola@utu.ac.in.
+Vishvajit Bakrola is an Assistant Professor at the Department of Computer Science and Engineering, Uka Tarsadia University, Bardoli, Gujarat, India.
+Vishvajit Bakrola has over 13 years of experience in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Brain-related technologies.
+Vishvajit Bakrola is a dedicated researcher and educator.
+Vishvajit Bakrola coordinates research laboratories in Artificial Intelligence, Natural Language Processing, and the Internet of Things (IoT).
+Vishvajit Bakrola has guided 7 postgraduate student theses.
+Vishvajit Bakrola has working experience with many industries.
+Vishvajit Bakrola's research interests include Machine Learning, Deep Learning, Artificial Intelligence, Robotics, Natural Language Processing.
+Vishvajit Bakrola is a Machine Learning System Designer and Developer, and IoT Developer, proficient in programming languages C, Python, C#.
+Vishvajit Bakrola has an Instagram profile @vishvajit_ with posts on teaching, research, and personal interests.
+Vishvajit Bakrola is affiliated with IEEE, with publications on topics like Machine Translation.
+Vishvajit Bakrola has a Facebook profile where he describes himself as Nation First Teacher | Researcher | Reader | Writer Explorer.
+Vishvajit Bakrola writes on Medium as an Enthusiastic AI explorer on a mission to shape the future of technology.
+Vishvajit Bakrola's ORCID ID is 0000-0002-6602-9194, with works like deepMINE - Natural Language Processing based Automatic Literature Mining and Research Summarization for Early Stage Comprehension in Pandemic Situations.
+Vishvajit Bakrola is listed on IRINS as Assistant Professor with a demonstrated history of working in the computer industry, focusing on Computer Science Artificial Intelligence.
+Vishvajit Bakrola has research interests in Machine Learning, Robotics, and Neuroscience on Academia.edu.
+Vishvajit Bakrola leads the AI-DL Lab at Uka Tarsadia University.
+In the Director's Message, Dr. Vishvajit Bakrola welcomes visitors to AMTICS with pride and enthusiasm.
+Vishvajit Bakrola holds a D.E. (CE), which is a Diploma in Computer Engineering.
+Vishvajit Bakrola holds a B.E. (CSE), which is a Bachelor of Engineering in Computer Science and Engineering.
+Vishvajit Bakrola holds an M.E. (CE), which is a Master of Engineering in Computer Engineering.
+Vishvajit Bakrola is pursuing a Ph.D.
+Vishvajit Bakrola is pursuing a PGDIPRL, likely a Post Graduate Diploma in Intellectual Property Rights Law.
+Uka Tarsadia University has NAAC accreditation.
+UTU features programs, faculty, and campus facilities, though specific numbers are not detailed in some sources.
+AMTICS participates in events like Utkarsh and shares student stories on social media, such as passion to perfection journeys.
+AMTICS encourages learning that is lived, not just taught, building a culture where students innovate.
+Detailed Comparison Table: AMTICS and Related Entities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AspectAMTICS DetailsUTU ContextVishvajit Bakrola ConnectionEstablishmentFounded in 2021 as a private institute offering advanced computer science courses.Established university in Bardoli, Gujarat, with NAAC accreditation.Joined as faculty and rose to I/C Director role.Focus AreasComputer Science, Technology, Innovation, Skill-based Education.Broad programs including B.Tech in CSE.AI, ML, DL, NLP, IoT, Robotics.Leadership/CoordinationDirected by Dr. Vishvajit Bakrola.Oversees constituent institutes like AMTICS.Coordinates AI, NLP, IoT labs; Guided 7 theses.Online PresenceInstagram (@amtics.utu), Facebook, LinkedIn.Main site: https://utu.ac.in/.LinkedIn, GitHub, Medium, ORCID, IEEE.Key ActivitiesEvents like Utkarsh, NPTEL chapter.Campus events, student performances.Publications on NLP mining, industry collaborations.
+Education and Research Table for Vishvajit Bakrola
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qualification/AspectDetailsSource NotesDegreesD.E. (CE), B.E. (CSE), M.E. (CE), Ph.D. (Pursuing), PGDIPRL (Pursuing).From profile site; Focus on computer engineering.ExperienceOver 13 years in AI, ML, DL; Assistant Professor at UTU.Industry collaborations and teaching.Research InterestsMachine Learning, Robotics, Neuroscience, NLP, IoT.Lab head for AI-DL Lab.Publications/AchievementsdeepMINE (NLP-based tool for pandemic research); IEEE papers on Machine Translation.Guided 7 theses; ORCID listed works.Professional ProfilesLinkedIn (AI Researcher), GitHub (Developer), Medium (Writer).Personal motto: Nation First Teacher
+This comprehensive overview draws from multiple sources to provide a balanced view of AMTICS as an emerging center for computer science education in India, integrated with UTU's broader academic framework. Vishvajit Bakrola's profile highlights a blend of academic leadership, research innovation, and practical industry engagement, making him a key figure in the institute's operations. Social media insights reveal active student involvement in cultural and technical events, underscoring a vibrant campus environment. While AMTICS is relatively new, its focus on societal challenges and national leadership development positions it as a forward-thinking entity. Further exploration of primary sources like the university's official pages can yield updates on ongoing programs and achievements.
